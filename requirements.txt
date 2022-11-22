@@ -27,3 +27,13 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+pytest
+pylint
+ipdb
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
